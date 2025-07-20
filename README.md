@@ -1,14 +1,13 @@
 ## Hi, I'm Thiago Maria 👋
 
-Welcome to my GitHub profile. I am a brazilian security information professional with developer's skills focused on the practical application of technology in **Cybersecurity**, **Artificial Intelligence**, and **Automation**.    
+Welcome to my GitHub profile. I am a Security Information Professional from Brazil with strong development skills, focusing on the practical application of technology in **Cybersecurity**, **Artificial Intelligence**, and **Automation**.    
 
-My work is centered on building open-source tools and resources that address real-world challenges and improve security processes with awareness and collaborative work.
+My work is centered on building open-source tools and resources that address real-world challenges and improve security processes through awareness and collaboration.
 
-I started this GitHub acc on May 2025 after made a DIO course about Azure and Python.  
-Feel free to look my trigger that leds me to create this GitHub account:  
+This GitHub profile was started in May 2025, inspired by a DIO course about Azure and Python I did in the same year. This course was the trigger for creating and sharing my projects with the community.
  - [DIO Course repository click here](https://github.com/ThiagoMaria-SecurityIT/DIO-Courses)
 
-And below is a list of my projects, some are under development.
+Below is a list of my projects. Please note that some are actively under development.
 
 ## My Projects
 

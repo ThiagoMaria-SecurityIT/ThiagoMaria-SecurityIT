@@ -11,7 +11,8 @@ Below is a list of my projects. Please note that some are actively under develop
 
 ## My Projects
 
-My repositories are organized by category to help you easily find what you're looking for.
+My repositories are organized by category to help you easily find what you're looking for.  
+- __Please note that some features are still under development and may not work as expected until they are fully completed__
 
 ### 🛡️ Cybersecurity
 

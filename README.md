@@ -27,7 +27,7 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
-| **[-AI-Vision-Agent-Security-Made-Human](https://github.com/ThiagoMaria-SecurityIT/-AI-Vision-Agent-Security-Made-Human)** | An AI Vision Agent designed to make security more intuitive and easier to understand. |
+| **[-AI-Vision-Agent-Security-Made-Human](https://github.com/ThiagoMaria-SecurityIT/-AI-Vision-Agent-Security-Made-Human)** | An AI Vision Agent (Under development) designed to make security more intuitive and easier to understand. |
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
 

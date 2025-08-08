@@ -19,8 +19,9 @@ My repositories are organized by category to help you easily find what you're lo
 | Repository | Description |
 | :--- | :--- |
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
-| **[cve-monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to actively monitor and send alerts for new Common Vulnerabilities and Exposures (CVEs). |
-| **[sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
+| **[Cve-monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to actively monitor and send alerts for new Common Vulnerabilities and Exposures (CVEs). |
+| **[Sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
+| **[Python Virtual Env Automation](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** | Desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.
 | **[Cybersecurity-Data-Analysis-for-Beginners](https://github.com/ThiagoMaria-SecurityIT/Cybersecurity-Data-Analysis-for-Beginners)** | A beginner-friendly guide to data analysis using cybersecurity datasets. |
 
 ### 🤖 Artificial Intelligence
@@ -29,7 +30,7 @@ My repositories are organized by category to help you easily find what you're lo
 | :--- | :--- |
 | **[Image & Video Detection](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)** | A Python-based tool for automated image and video analysis using advanced object detection. | 
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
-| **[cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
+| **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
 
 ### ⚙️ Automation & Guides
 

@@ -23,7 +23,7 @@ My repositories are organized by category to help you easily find what you're lo
 | Repository | Description |
 | :--- | :--- |
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
-| **[Cve-monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to actively monitor and send alerts for new Common Vulnerabilities and Exposures (CVEs). |
+| **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD), store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
 | **[Sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
 | **[Python Virtual Env Automation](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** | Desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.
 | **[Cybersecurity-Data-Analysis-for-Beginners](https://github.com/ThiagoMaria-SecurityIT/Cybersecurity-Data-Analysis-for-Beginners)** | A beginner-friendly guide to data analysis using cybersecurity datasets. |

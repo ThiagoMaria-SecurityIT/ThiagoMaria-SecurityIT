@@ -12,6 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
 > 2. Recently updated: **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)**
+> 3. Recently created: **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
 
 
 ## My Projects
@@ -23,6 +24,7 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
+| **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | This simple platform provides a centralized, all-in-one solution for security professionals and development teams to stay on top of the latest CVEs. |
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
 | **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD), store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
 | **[Sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
@@ -47,12 +49,16 @@ My repositories are organized by category to help you easily find what you're lo
 
 ## About Me & Contact
 
-**Thiago Maria - From Brazil to the World 🌎**
+**Thiago Maria - From Brazil to the World 🌎**  
 *Senior Security Information Professional | Passionate Programmer | AI Developer*
 
-With a professional background in security analysis and a deep passion for programming, I created this GitHub profile to share knowledge in security, Python, and AI development. My work focuses on implementing security-first approaches in developer tools without compromising usability.
+With a professional background in security analysis and a deep passion for programming, I created this Github acc to share some knowledge about security information, cybersecurity, Python and AI development practices. Most of my work here focuses on implementing security-first at companies and developer tools while maintaining usability and productivity.
 
 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)
-[![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
+[![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)  
+ 
+## Ways to Contribute:   
+ Want to see more upgrades? Help me keep it updated!    
+ [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/ThiagoMaria-SecurityIT) 

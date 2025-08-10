@@ -10,7 +10,8 @@ This GitHub profile was started in May 2025, inspired by a **DIO course on Azure
 Below is a list of my projects. Please note that some are actively under development.  
 
 >[!Tip]
->Recent project:  **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** 
+> 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
+> 2. Recently updated: **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)**
 
 
 ## My Projects

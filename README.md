@@ -11,7 +11,7 @@ Below is a list of my projects. Please note that some are actively under develop
 
 >[!Tip]
 > 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
-> 2. Recently updated: **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)**
+> 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)**
 > 3. Recently created: **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
 
 

@@ -37,6 +37,7 @@ My repositories are organized by category to help you easily find what you're lo
 | Repository | Description |
 | :--- | :--- |
 | **[Image & Video Detection](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)** | A Python-based tool for automated image and video analysis using advanced object detection. | 
+| **[AI Compliance Visual Inspector](https://github.com/ThiagoMaria-SecurityIT/AI_Compliance_Visual_Inspector)**| A Gradio-based web application that leverages a state-of-the-art AI vision model to assist in visual compliance and security inspections.  🖰 [Click Here to Try](https://huggingface.co/spaces/ThiSecur/AI_Compliance_Visual_Inspector)👈🏼 |
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
 

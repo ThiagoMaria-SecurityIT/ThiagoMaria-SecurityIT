@@ -48,6 +48,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Microsoft_Office_Automation_VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA)** | Scripts and macros for automating repetitive tasks in Microsoft Office using VBA. |
 | **[Comandos-Powershell-vs-Python](https://github.com/ThiagoMaria-SecurityIT/Comandos-Powershell-vs-Python)** | A comparative guide of common commands in PowerShell and Python for system administrators. |
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |
+|[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)|iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
 
 ## About Me & Contact
 

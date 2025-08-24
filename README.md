@@ -56,7 +56,9 @@ My repositories are organized by category to help you easily find what you're lo
 
 With a professional background in security analysis and a deep passion for programming, I created this Github acc to share some knowledge about security information, cybersecurity, Python and AI development practices. Most of my work here focuses on implementing security-first at companies and developer tools while maintaining usability and productivity.
 
-Let's Connect:
+Let's Connect:  
+
+👇🏽 Click on the badges below:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
 [![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)  

@@ -12,7 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**
-> 3. Recently created: **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
+> 3. Recently created: **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
 
 
 ## My Projects
@@ -24,7 +24,8 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
-| **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | This simple platform (is an update from the CVE Monitor below) provides a centralized, all-in-one solution for security professionals and development teams to stay on top of the latest CVEs. |
+| **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | This simple platform (is an update from the CVE Monitor below) provides a centralized, all-in-one solution for security professionals and development teams to stay on top of the latest CVEs. |  
+| **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** | A Python desktop GUI application for generating Time-based One-Time Passwords (TOTP) for two-factor authentication |
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
 | **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD), store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
 | **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | A secure password generator tool written in Python that creates strong, random passwords for enhanced security. |
@@ -48,7 +49,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Microsoft_Office_Automation_VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA)** | Scripts and macros for automating repetitive tasks in Microsoft Office using VBA. |
 | **[Comandos-Powershell-vs-Python](https://github.com/ThiagoMaria-SecurityIT/Comandos-Powershell-vs-Python)** | A comparative guide of common commands in PowerShell and Python for system administrators. |
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |
-|[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)|iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
+| **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** |iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
 
 ## About Me & Contact
 

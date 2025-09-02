@@ -12,7 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**
-> 3. Recently created: **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
+> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)**, **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
 
 
 ## My Projects
@@ -38,6 +38,7 @@ My repositories are organized by category to help you easily find what you're lo
 | Repository | Description |
 | :--- | :--- |
 | **[Image & Video Detection](https://huggingface.co/spaces/ThiSecur/imagedtection-demo)** | A Python-based tool for automated image and video analysis using advanced object detection. | 
+| **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | A simple Hugging Face Space built with Python and Gradio that converts text to speech. |    
 | **[AI Compliance Visual Inspector](https://github.com/ThiagoMaria-SecurityIT/AI_Compliance_Visual_Inspector)**| A Gradio-based web application that leverages a state-of-the-art AI vision model to assist in visual compliance and security inspections.  🖰 [Click Here to Try](https://huggingface.co/spaces/ThiSecur/AI_Compliance_Visual_Inspector)👈🏼 |
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |

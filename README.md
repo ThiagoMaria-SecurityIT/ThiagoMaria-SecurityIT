@@ -10,10 +10,9 @@ This GitHub profile was started in May 2025, inspired by a **DIO course on Azure
 Below is a list of my projects. Please note that some are actively under development.  
 
 >[!Tip]
-> 1. Recent project: **[Python Virtual Env Automation & Cybersecurity Monitor Desktop App](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)**  
-> 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**
-> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)**, **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
-
+> 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**
+> 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
+> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** 
 
 ## My Projects
 
@@ -29,7 +28,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
 | **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD) using API and Python, store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
 | **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | A secure password generator tool written in Python that creates strong, random passwords for enhanced security. |
-| **[Sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
+| **[Sql-Security-Applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | **Under development** - A collection of SQL scripts and applications designed for database security tasks. |
 | **[Python Virtual Env Automation](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** | Desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.
 | **[Cybersecurity-Data-Analysis-for-Beginners](https://github.com/ThiagoMaria-SecurityIT/Cybersecurity-Data-Analysis-for-Beginners)** | A beginner-friendly guide to data analysis using cybersecurity datasets. |
 

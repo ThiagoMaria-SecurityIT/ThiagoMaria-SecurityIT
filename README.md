@@ -12,7 +12,8 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**
-> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** 
+> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**
+> 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**
 
 ## My Projects
 

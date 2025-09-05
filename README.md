@@ -24,10 +24,10 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
-| **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | This simple platform (is an update from the CVE Monitor below) provides a centralized, all-in-one solution for security professionals and development teams to stay on top of the latest CVEs. |  
+| **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | This simple API platform made with Python (is an update from the CVE Monitor below) provides a centralized, all-in-one solution for security professionals and development teams to stay on top of the latest CVEs, using NVD API |  
 | **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** | A Python desktop GUI application for generating Time-based One-Time Passwords (TOTP) for two-factor authentication |
 | **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | A collection of Python scripts for defensive security, risk management, and IT governance. |
-| **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD), store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
+| **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | A tool to fetch vulnerability data from the NIST National Vulnerability Database (NVD) using API and Python, store it locally, and display it in an interactive web dashboard classified by Common Vulnerabilities and Exposures (CVEs). |
 | **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | A secure password generator tool written in Python that creates strong, random passwords for enhanced security. |
 | **[Sql-security-applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | A collection of SQL scripts and applications designed for database security tasks. |
 | **[Python Virtual Env Automation](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** | Desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.

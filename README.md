@@ -12,7 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**.
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**.
-> 3. Recently created: 1. **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | 2. **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)**  
+> 3. Recently created: 1. **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | 2. **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 4. **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**   
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 
 ## My Projects
@@ -59,6 +59,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Comandos-Powershell-vs-Python](https://github.com/ThiagoMaria-SecurityIT/Comandos-Powershell-vs-Python)** | A comparative guide of common commands in PowerShell and Python for system administrators. |
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |
 | **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** |iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
+| **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**  | Educational tool, built with Python. The application takes an English word, splits it into its phonetic syllables, and reads the result aloud using a Text-to-Speech (TTS ) engine. | 
 
 ## About Me & Contact
 

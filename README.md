@@ -25,7 +25,7 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Site/Link Demonstration | Description |
 | :--- | :--- |
-| **[ComplianceIQ](https://wojeiatm.manus.space/)** | A functional prototype demonstrating a framework for achieving and maintaining NIST CSF and ISO 27001 compliance. Made with Manus AI to show how to manage security compliance.|   
+| **[ComplianceIQ](https://wojeiatm.manus.space/)** | A functional **prototype** demonstrating a framework for achieving and maintaining NIST CSF and ISO 27001 compliance. Made with Manus AI to show how to manage security compliance.|   
 
 ### 🛡️ Cybersecurity
 

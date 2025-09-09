@@ -12,7 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**.
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**.
-> 3. Recently created: **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** and **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**.
+> 3. Recently created: 1. **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | 2. **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)**  
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 
 ## My Projects
@@ -49,6 +49,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[AI Compliance Visual Inspector](https://github.com/ThiagoMaria-SecurityIT/AI_Compliance_Visual_Inspector)**| A Gradio-based web application that leverages a state-of-the-art AI vision model to assist in visual compliance and security inspections.  🖰 [Click Here to Try](https://huggingface.co/spaces/ThiSecur/AI_Compliance_Visual_Inspector)👈🏼 |
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
+| **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | A case study in how anyone can team up with an AI to build a custom Python learning tool from scratch.|
 
 ### ⚙️ Automation & Guides
 

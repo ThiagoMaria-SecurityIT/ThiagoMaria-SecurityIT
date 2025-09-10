@@ -50,7 +50,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
 | **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | A case study in how anyone can team up with an AI to build a custom Python learning tool from scratch.|
-| **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | An educational AI-powered tool that splits words into syllables and converts any English text into high-quality speech. |
+| **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | An educational AI-powered tool that splits words into syllables and converts any English text into high-quality speech. [GitHub repo for this tool](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker) |
 
 ### ⚙️ Automation & Guides
 
@@ -60,7 +60,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Comandos-Powershell-vs-Python](https://github.com/ThiagoMaria-SecurityIT/Comandos-Powershell-vs-Python)** | A comparative guide of common commands in PowerShell and Python for system administrators. |
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |
 | **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** |iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
-| **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**  | An educational tool, built with Python. The application takes an English word, splits it into its phonetic syllables, and reads the result aloud using a Text-to-Speech (TTS ) engine. [GitHub repo for this tool](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker) | 
+| **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**  | An educational tool, built with Python. The application takes an English word, splits it into its phonetic syllables, and reads the result aloud using a Text-to-Speech (TTS ) engine. | 
 
 ## About Me & Contact
 

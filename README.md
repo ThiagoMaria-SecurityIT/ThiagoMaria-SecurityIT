@@ -12,7 +12,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**.
 > 2. Recently updated: **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** and **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**.
-> 3. Recently created: 1. **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | 2. **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 4. **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**   
+> 3. Recently created: 1. **[English Text-to-Speech Converter](https://huggingface.co/spaces/ThiSecur/tts2-project)** | 2. **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 4. **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)** | 5. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )**    
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 
 ## My Projects

@@ -11,7 +11,7 @@ Below is a list of my projects. Please note that some are actively under develop
 
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**.
-> 2. Recently updated: 1. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**. | 3. **[CyberScan Pro - Nmap Vulnerability Scanner](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner)**  
+> 2. Recently updated: 1. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**. | 3. **[CyberScan Pro - Nmap Vulnerability Scanner](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner)** | 4. [Hardware Asset Management](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Asset%20Management) | 5. [Access Control System](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Access%20Control)
 > 3. Recently created: 1. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 2. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )**    
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 

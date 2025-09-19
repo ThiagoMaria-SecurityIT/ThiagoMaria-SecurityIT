@@ -12,8 +12,9 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:   **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)**.
 > 2. Recently updated: 1. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**. | 3. **[CyberScan Pro - Nmap Vulnerability Scanner](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner)** | 4. [Hardware Asset Management](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Asset%20Management) | 5. [Access Control System](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Access%20Control)
-> 3. Recently created: 1. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 2. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )**    
+> 3. Recently created: 1. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 2. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | 3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 4. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)**.     
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
+> 5. Under Development: **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)**
 
 ## My Projects
 
@@ -39,6 +40,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Sql-Security-Applications](https://github.com/ThiagoMaria-SecurityIT/sql-security-applications)** | **Under development** - A collection of SQL scripts and applications designed for database security tasks. |
 | **[Python Virtual Env Automation](https://github.com/ThiagoMaria-SecurityIT/unified-command-tool)** | Desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.
 | **[Cybersecurity-Data-Analysis-for-Beginners](https://github.com/ThiagoMaria-SecurityIT/Cybersecurity-Data-Analysis-for-Beginners)** | A beginner-friendly guide to data analysis using cybersecurity datasets. |
+|**[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)** | **Under Development** - An open-source Flask application that converts PowerPoint presentations into web-based training courses (designed for security awareness training). |
 
 ### 🤖 Artificial Intelligence
 

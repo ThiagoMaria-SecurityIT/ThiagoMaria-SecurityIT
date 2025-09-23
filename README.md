@@ -52,7 +52,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[AI Compliance Visual Inspector](https://github.com/ThiagoMaria-SecurityIT/AI_Compliance_Visual_Inspector)**| A Gradio-based web application that leverages a state-of-the-art AI vision model to assist in visual compliance and security inspections.  🖰 [Click Here to Try](https://huggingface.co/spaces/ThiSecur/AI_Compliance_Visual_Inspector)👈🏼 |
 | **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)** | A showcase of various AI projects and proof-of-concepts. |
 | **[Cybersecurity-ai-demo](https://github.com/ThiagoMaria-SecurityIT/cybersecurity-ai-demo)** | A demonstration of how AI can be applied to solve cybersecurity challenges. |
-| **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | A case study in how anyone can team up with an AI to build a custom Python learning tool from scratch.|
+| **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** | A case study in how anyone can team up with an AI to build a custom Python learning tool from scratch. Does not use AI but was build using AI.|
 | **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | An educational AI-powered tool that splits words into syllables and converts any English text into high-quality speech. [GitHub repo for this tool](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker) |
 
 ### ⚙️ Automation & Guides

@@ -5,6 +5,8 @@ Welcome to my GitHub profile. I am a **Security Information Professional** from 
 My work is centered on building open-source tools and resources that address real-world challenges and improve security processes through awareness and collaboration.
 
 This GitHub profile was started in May 2025, inspired by a **DIO course on Azure and Python**. This course was the trigger/catalyst for creating and sharing my projects with the community.
+
+- [DIO and Santander - Cybersecurity 2025 course](https://github.com/ThiagoMaria-SecurityIT/Bootcamp_DIO_e_Santander-Ciberseguran-a_2025)
 - [Look my DIO Course repository here](https://github.com/ThiagoMaria-SecurityIT/DIO-Courses)
 
 Below is a list of my projects. Please note that some are actively under development.  

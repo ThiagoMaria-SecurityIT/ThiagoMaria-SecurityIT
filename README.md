@@ -14,7 +14,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > 1. Recent project:  1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**.
 > 2. Recently updated: 1. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | 2. **[CyberScan Pro - Nmap Vulnerability Scanner](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner)**   |    3. [Hardware Asset Management](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Asset%20Management) | 4. [Access Control System](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Access%20Control)
-> 3. Recently created: 1. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 2. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** |    3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 4. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)**.     
+> 3. Recently created: 1. **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier)** | 2. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** |    3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 4. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)**.     
 > 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 > 5. Under Development: 1. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)** | 2. [Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform)
 
@@ -61,6 +61,7 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
+| **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier)** | A simple Python application with graphical interface to verify file integrity using SHA256 checksums. This tool helps ensure your downloaded files are authentic and not corrupted. |  
 | **[Microsoft_Office_Automation_VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA)** | Scripts and macros for automating repetitive tasks in Microsoft Office using VBA. |
 | **[Comandos-Powershell-vs-Python](https://github.com/ThiagoMaria-SecurityIT/Comandos-Powershell-vs-Python)** | A comparative guide of common commands in PowerShell and Python for system administrators. |
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |

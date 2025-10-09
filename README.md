@@ -1,6 +1,6 @@
 ## Hi, I'm Thiago Maria 👋
 
-Welcome to my GitHub profile. I am a **Security Information Professional** from Brazil with strong development skills, focusing on the practical application of technology in **Cybersecurity**, **Artificial Intelligence**, and **Automation**.
+Welcome to my GitHub profile. I am a **Information Security Professional** or **InfoSec Professional** from Brazil with strong development skills, focusing on the practical application of technology in **Cybersecurity**, **Artificial Intelligence**, and **Automation**.
 
 My work is centered on building open-source tools and resources that address real-world challenges and improve security processes through awareness and collaboration.
 

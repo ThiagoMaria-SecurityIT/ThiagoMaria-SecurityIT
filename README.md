@@ -71,7 +71,7 @@ My repositories are organized by category to help you easily find what you're lo
 ## About Me & Contact
 
 **Thiago Maria - From Brazil to the World 🌎**  
-*Senior Security Information Professional | Passionate Programmer | AI Developer*
+*Senior Information Security Professional | Security Risk & Compliance Specialist | AI Security Researcher | Software Developer | Post-Quantum Cryptography Enthusiast*
 
 My passion for programming and my professional background in security analysis led me to create this GitHub account to share my knowledge of security information, cybersecurity, Python, and AI development practices. My work primarily focuses on prioritizing security in organizations while ensuring usability and productivity.
 

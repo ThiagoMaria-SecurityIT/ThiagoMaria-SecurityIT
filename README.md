@@ -12,10 +12,10 @@ This GitHub profile was started in May 2025, inspired by a **DIO course on Azure
 Below is a list of my projects. Please note that some are actively under development.  
 
 >[!Tip]
-> 1. Recent projects:  1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)**.
+> 1. Recent projects:  1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui)** | 2. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform)** | 3. **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab)**
 > 2. Recently updated: 1. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator)** | 2. **[CyberScan Pro - Nmap Vulnerability Scanner](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner)**   |    3. [Hardware Asset Management](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Asset%20Management) | 4. [Access Control System](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/Access%20Control)
 > 3. Recently created: 1. **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier)** | 2. **[iPhone Image Converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)**. | 3. **[AI-Powered-Quiz-Builder](https://github.com/ThiagoMaria-SecurityIT/AI-Powered-Quiz-Builder)** |    3. **[AI Syllable and Text-to-Speech Tool Live](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 4. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)**.     
-> 4. Dev Security Tips: **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
+> 4. Dev Security Tips: 1. **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab)** | 2. **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)**.
 > 5. Under Development: 1. **[Security Awareness APP](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-APP)** | 2. [Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform)
 
 ## My Projects
@@ -67,6 +67,8 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Tutoriais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais)** | My main repository for step-by-step guides and tutorials on various technology topics. |
 | **[iPhone image converter](https://github.com/ThiagoMaria-SecurityIT/heic-converter)** |iPhone cameras capture photos in the HEIC (High Efficiency Image Container) format by default, which provides excellent compression but isn't universally supported across all platforms and applications. This tool provides an easy way to convert those HEIC images to more common formats like JPG or PNG.|
 | **[Syllable Splitter and Speaker](https://github.com/ThiagoMaria-SecurityIT/Syllable-Splitter-and-Speaker)**  | An educational tool, built with Python. The application takes an English word, splits it into its phonetic syllables, and reads the result aloud using a Text-to-Speech (TTS ) engine. | 
+| **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist)** | A comprehensive security checklist for Django developers before uploading or deploying projects |
+| **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab)** | This repo is a hands-on lab showing Docker container isolation using a Python script that simulates deleting your Downloads folder |
 
 ## About Me & Contact
 

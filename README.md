@@ -75,7 +75,8 @@ My repositories are organized by category to help you easily find what you're lo
 
 | Repository | Description |
 | :--- | :--- |
-| [HIPAA Security Rule Compliance Implementation & Monitoring Framework](https://github.com/ThiagoMaria-SecurityIT/HIPAA-Security-Rule-Compliance-Implementation-Monitoring-Framework) | Comprehensive, systematic framework designed to help healthcare organizations and their business associates achieve and maintain full compliance with the HIPAA Security Rule by transforming complex regulations into actionable, measurable security controls with continuous monitoring. |
+| [HIPAA Security Rule Compliance Implementation & Monitoring Framework](https://github.com/ThiagoMaria-SecurityIT/HIPAA-Security-Rule-Compliance-Implementation-Monitoring-Framework) | Comprehensive, systematic framework designed to help healthcare organizations and their business associates achieve and maintain full compliance with the HIPAA Security Rule by transforming complex regulations into actionable, measurable security controls with continuous monitoring. |  
+| [Scalable SOC 2 Framework](https://github.com/ThiagoMaria-SecurityIT/A-Scalable-Framework-for-SOC-2-Compliance-From-Startup-to-Enterprise) | A comprehensive, scalable framework for implementing and monitoring SOC 2 compliance, designed to grow with an organization from its startup phase to a global enterprise. |
 
 ## About Me & Contact
 

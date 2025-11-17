@@ -74,13 +74,6 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab)** | This repo is a hands-on lab showing Docker container isolation using a Python script that simulates deleting your Downloads folder |
 | **[InfoSec Concepts Demonstrator](https://github.com/ThiagoMaria-SecurityIT/infosec_tool)** | This project is a simple, interactive web application built with Flask to demonstrate and explain four fundamental concepts in information security: Plaintext, Encoding, Hashing, and Encryption. |
 
-### Compliance Implementation & Monitoring Frameworks  
-
-| Repository | Description |
-| :--- | :--- |
-| [HIPAA Security Rule Compliance Implementation & Monitoring Framework](https://github.com/ThiagoMaria-SecurityIT/HIPAA-Security-Rule-Compliance-Implementation-Monitoring-Framework) | Comprehensive, systematic framework designed to help healthcare organizations and their business associates achieve and maintain full compliance with the HIPAA Security Rule by transforming complex regulations into actionable, measurable security controls with continuous monitoring. |  
-| [Scalable SOC 2 Framework](https://github.com/ThiagoMaria-SecurityIT/A-Scalable-Framework-for-SOC-2-Compliance-From-Startup-to-Enterprise) | A comprehensive, scalable framework for implementing and monitoring SOC 2 compliance, designed to grow with an organization from its startup phase to a global enterprise. |
-
 ## About Me & Contact
 
 **Thiago Maria - From Brazil to the World 🌎**  

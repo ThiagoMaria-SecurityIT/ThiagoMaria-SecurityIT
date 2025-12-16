@@ -7,7 +7,7 @@ My work is centered on building open-source tools and resources that address rea
 This GitHub profile was started in May 2025, inspired by a **DIO course on Azure and Python**. This course was the trigger/catalyst for creating and sharing my projects with the community.
 
 - [DIO and Santander - Cybersecurity 2025 course](https://github.com/ThiagoMaria-SecurityIT/Bootcamp_DIO_e_Santander-Ciberseguran-a_2025)
-- [Look my DIO Course repository here](https://github.com/ThiagoMaria-SecurityIT/DIO-Courses)
+- [DIO course: Azure and Python repository](https://github.com/ThiagoMaria-SecurityIT/DIO-Courses)
 
 Below is a list of my projects. Please note that some are actively under development.  
 

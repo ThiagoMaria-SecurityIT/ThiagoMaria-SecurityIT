@@ -75,6 +75,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab)** | This repo is a hands-on lab showing Docker container isolation using a Python script that simulates deleting your Downloads folder |
 | **[InfoSec Concepts Demonstrator](https://github.com/ThiagoMaria-SecurityIT/infosec_tool)** | This project is a simple, interactive web application built with Flask to demonstrate and explain four fundamental concepts in information security: Plaintext, Encoding, Hashing, and Encryption. |
 | **[PDF Library Manager](https://github.com/ThiagoMaria-SecurityIT/pdf-library-manager)** | A Python desktop application that creates a visual library of your PDF files with customizable thumbnails. |
+| **[Simple Python Task Manager](https://github.com/ThiagoMaria-SecurityIT/simple-python-task-manager)** | A simple task management application built with Python and Tkinter. |  
 
 
 ## About Me & Contact

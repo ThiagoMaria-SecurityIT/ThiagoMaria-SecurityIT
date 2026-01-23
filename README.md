@@ -76,7 +76,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[InfoSec Concepts Demonstrator](https://github.com/ThiagoMaria-SecurityIT/infosec_tool)** | This project is a simple, interactive web application built with Flask to demonstrate and explain four fundamental concepts in information security: Plaintext, Encoding, Hashing, and Encryption. |
 | **[PDF Library Manager](https://github.com/ThiagoMaria-SecurityIT/pdf-library-manager)** | A Python desktop application that creates a visual library of your PDF files with customizable thumbnails. |
 | **[Simple Python Task Manager](https://github.com/ThiagoMaria-SecurityIT/simple-python-task-manager)** | A simple task management application built with Python and Tkinter. |  
-| **[MP4 to WMV Converter (Pro)](https://github.com/ThiagoMaria-SecurityIT/mp4_to_wmv_converter_pro/new/main)** | A user-friendly Python GUI tool for converting MP4 video files to WMV format on Windows. |  
+| **[MP4 to WMV Converter (Pro)](https://github.com/ThiagoMaria-SecurityIT/mp4_to_wmv_converter_pro)** | A user-friendly Python GUI tool for converting MP4 video files to WMV format on Windows. |  
 
 
 ## About Me & Contact

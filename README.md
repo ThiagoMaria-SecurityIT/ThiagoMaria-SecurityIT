@@ -14,9 +14,12 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > **Project Activity Overview**
 >
-> 1️⃣.  **Active Development:** -> 1. **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | 2. **[Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform )**   
-> 2️⃣.  **Recent Releases:** 1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui )** | 2. **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier )** | 3. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform )** | 4. **[AI Syllable and Text-to-Speech Tool(Live)](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 5. **[Python Project Organizer](https://github.com/ThiagoMaria-SecurityIT/python-project-organizer)** | 6. **[Security Dashboard Python + SQL](https://github.com/ThiagoMaria-SecurityIT/security-dashboard-Python-SQL)**     
-> 3️⃣.  **Maintained & Updated:** 1. **[CyberScan Pro](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner )** | 2. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator )** | 3. **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | 4. **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)**   
+> 1️⃣.  **Active Development:** -> 1. **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | 2. **[Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform )**
+>
+> 2️⃣.  **Recent Releases:** 1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui )** | 2. **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier )** | 3. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform )** | 4. **[AI Syllable and Text-to-Speech Tool(Live)](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 5. **[Python Project Organizer](https://github.com/ThiagoMaria-SecurityIT/python-project-organizer)** | 6. **[Security Dashboard Python + SQL](https://github.com/ThiagoMaria-SecurityIT/security-dashboard-Python-SQL)** | 7. **[System Resource Monitor for Windows](https://github.com/ThiagoMaria-SecurityIT/ThiagoMaria-SecurityIT/edit/main/README.md)**  
+>
+> 3️⃣.  **Maintained & Updated:** 1. **[CyberScan Pro](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information/tree/main/CyberScan%20Pro%20-%20Nmap%20Vulnerability%20Scanner )** | 2. **[PassGenerator](https://github.com/ThiagoMaria-SecurityIT/PassGenerator )** | 3. **[Python-For-Security-Information](https://github.com/ThiagoMaria-SecurityIT/Python-For-Security-Information)** | 4. **[AI-showcase](https://github.com/ThiagoMaria-SecurityIT/AI-showcase)**
+>
 > 4️⃣.  **Dev Security Resources:** 1. **[Docker-Delete-Lab](https://github.com/ThiagoMaria-SecurityIT/Docker-Delete-Lab )** | 2. **[Django Security Checklist](https://github.com/ThiagoMaria-SecurityIT/Django-Security-Checklist )** | 3. **[InfoSec Concepts Demonstrator](https://github.com/ThiagoMaria-SecurityIT/infosec_tool )** | 4. **[Educational Security Playground ROT13](https://github.com/ThiagoMaria-SecurityIT/Educational_Security_Playground_ROT13)** | 5. **[Python Bytecode Security Demo](https://github.com/ThiagoMaria-SecurityIT/python-bytecode-security-demo)** 
 
 
@@ -77,6 +80,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[PDF Library Manager](https://github.com/ThiagoMaria-SecurityIT/pdf-library-manager)** | A Python desktop application that creates a visual library of your PDF files with customizable thumbnails. |
 | **[Simple Python Task Manager](https://github.com/ThiagoMaria-SecurityIT/simple-python-task-manager)** | A simple task management application built with Python and Tkinter. |  
 | **[MP4 to WMV Converter (Pro)](https://github.com/ThiagoMaria-SecurityIT/mp4_to_wmv_converter_pro)** | A user-friendly Python GUI tool for converting MP4 video files to WMV format on Windows. |  
+| **[System Resource Monitor for Windows](https://github.com/ThiagoMaria-SecurityIT/ThiagoMaria-SecurityIT/edit/main/README.md)** | A lightweight, always-on-top system monitoring widget for Windows 11. Monitor CPU, RAM, GPU, temperatures, and disk activity in real-time while running virtual machines. |
 
 
 ## About Me & Contact

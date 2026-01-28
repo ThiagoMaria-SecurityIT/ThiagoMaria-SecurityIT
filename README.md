@@ -30,12 +30,6 @@ My repositories are organized by category to help you easily find what you're lo
 - __Please note that some features are still under development and may not work as expected until they are fully completed__
 
 
-### 📋✅️ Security Risk Management Frameworks
-
-| Site/Link Demonstration | Description |
-| :--- | :--- |
-| **[ComplianceIQ](https://wojeiatm.manus.space/)** | A functional **prototype** demonstrating a framework for achieving and maintaining NIST CSF and ISO 27001 compliance. Made with Manus AI to show how to manage security compliance.|   
-
 ### 🛡️ Cybersecurity
 
 | Repository | Description |

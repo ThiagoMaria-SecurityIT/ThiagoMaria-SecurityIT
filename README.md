@@ -80,7 +80,7 @@ My repositories are organized by category to help you easily find what you're lo
 | **[PDF Library Manager](https://github.com/ThiagoMaria-SecurityIT/pdf-library-manager)** | A Python desktop application that creates a visual library of your PDF files with customizable thumbnails. |
 | **[Simple Python Task Manager](https://github.com/ThiagoMaria-SecurityIT/simple-python-task-manager)** | A simple task management application built with Python and Tkinter. |  
 | **[MP4 to WMV Converter (Pro)](https://github.com/ThiagoMaria-SecurityIT/mp4_to_wmv_converter_pro)** | A user-friendly Python GUI tool for converting MP4 video files to WMV format on Windows. |  
-| **[System Resource Monitor for Windows](https://github.com/ThiagoMaria-SecurityIT/windows-system-monitor)** | A lightweight, always-on-top system monitoring widget for Windows 11. Monitor CPU, RAM, GPU, temperatures, and disk activity in real-time while running virtual machines. |
+| **[System Resource Monitor for Windows](https://github.com/ThiagoMaria-SecurityIT/windows-system-monitor)** | A lightweight, always-on-top system monitoring *widget* for Windows 11. Monitor CPU, RAM, GPU, temperatures, and disk activity in real-time while running virtual machines, local AI or any intensive tasks. |
 
 
 ## About Me & Contact

@@ -14,7 +14,7 @@ Below is a list of my projects. Please note that some are actively under develop
 >[!Tip]
 > **Project Activity Overview**
 >
-> 1️⃣.  **Active Development:** -> 1. **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | 2. **[Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform )**
+> 1️⃣.  **Active Development:** -> 1. **[QEMU Virtual Disk Manager](https://github.com/ThiagoMaria-SecurityIT/qemu-disk-manager)** | 2. **[CVE-Monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)** | 3. **[Security Awareness Web Platform](https://github.com/ThiagoMaria-SecurityIT/Security-Awareness-Web-Platform )**
 >
 > 2️⃣.  **Recent Releases:** 1. **[TOTP Authenticator](https://github.com/ThiagoMaria-SecurityIT/totp-authenticator-gui )** | 2. **[SHA256 Checksum Verifier](https://github.com/ThiagoMaria-SecurityIT/checksum-verifier )** | 3. **[Vulnerability Management Platform](https://github.com/ThiagoMaria-SecurityIT/vulnerability-management-platform )** | 4. **[AI Syllable and Text-to-Speech Tool(Live)](https://huggingface.co/spaces/ThiSecur/tts3-project )** | 5. **[Python Project Organizer](https://github.com/ThiagoMaria-SecurityIT/python-project-organizer)** | 6. **[Security Dashboard Python + SQL](https://github.com/ThiagoMaria-SecurityIT/security-dashboard-Python-SQL)** | 7. **[System Resource Monitor for Windows](https://github.com/ThiagoMaria-SecurityIT/windows-system-monitor)**  
 >
